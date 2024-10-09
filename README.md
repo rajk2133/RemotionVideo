@@ -1,3 +1,4 @@
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,3 +17,4 @@ It will render the video and create a out.mp4 file in public directory which wil
 
 Builds the app for production to the `build` folder.\
 A page with player will run in browser which will play your video crested using remotion
+
